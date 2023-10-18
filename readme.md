@@ -1,4 +1,4 @@
-# Assignment 1 
+# Assignment 1
 
     completed first assignment by creating landing page
 
