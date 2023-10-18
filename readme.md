@@ -1,6 +1,6 @@
 # Assignment 1
 
-    completed first assignment by creating landing page
+    completed first assignment by creating landing page 
 
 ## Links
 
